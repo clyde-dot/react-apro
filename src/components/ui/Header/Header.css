@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.nav {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.nav a {
+    color: black;
+}
